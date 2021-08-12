@@ -1,1 +1,1 @@
-# terraform practice 2021 | @atulkamble
+# Terraform Practice 2021 | @atulkamble
